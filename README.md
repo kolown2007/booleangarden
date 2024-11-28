@@ -14,5 +14,5 @@ project by Nice Buenaventura
 
 -web framework -->[sveltkit](https://svelte.dev/)
 
--typescript language --> [typescript] (https://www.typescriptlang.org/)
+-typescript  --> [typescript] (https://www.typescriptlang.org/)
 
