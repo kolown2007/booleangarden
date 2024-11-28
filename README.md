@@ -10,11 +10,11 @@ project by Nice Buenaventura
 
 ### Technologies
 
--webgl/ webgpu ---> [babylon.js](https://www.babylonjs.com/)
+- webgl/ webgpu ---> [babylon.js](https://www.babylonjs.com/)
 
--web framework -->[sveltkit](https://svelte.dev/)
+- web framework -->[sveltkit](https://svelte.dev/)
 
--typescript  --> [typescript](https://www.typescriptlang.org/)
+- typescript  --> [typescript](https://www.typescriptlang.org/)
 
 ### other tools
 
