@@ -10,7 +10,7 @@ project by Nice Buenaventura
 
 ### Technologies
 
--webgl/ webgpu ---> babylon.js
+-webgl/ webgpu ---> [babylon.js](https://www.babylonjs.com/)
 
 -ui and state management / routing --> sveltkit
 
