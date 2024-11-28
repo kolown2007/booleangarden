@@ -16,3 +16,7 @@ project by Nice Buenaventura
 
 -typescript  --> [typescript](https://www.typescriptlang.org/)
 
+### other tools
+
+- google, chatgpt,github copilot,  stackoverflow, framework documentations
+
