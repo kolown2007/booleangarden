@@ -12,7 +12,7 @@ project by Nice Buenaventura
 
 -webgl/ webgpu ---> [babylon.js](https://www.babylonjs.com/)
 
--ui and state management / routing --> sveltkit
+-web framework -->[sveltkit](https://svelte.dev/)
 
--typescript language 
+-typescript language --> [typescript] (https://www.typescriptlang.org/)
 
