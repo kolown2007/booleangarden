@@ -18,5 +18,10 @@ project by Nice Buenaventura
 
 ### other tools
 
-- google, chatgpt,github copilot,  stackoverflow, framework documentations
+- google, chatgpt,github copilot, stackoverflow, framework documentations
+
+### terms
+
+- chatbot
+- point cloud system
 
