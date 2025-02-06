@@ -24,4 +24,6 @@ project by Nice Buenaventura
 
 - chatbot
 - point cloud system
-
+- particle system
+- 3d space
+- organic growth
